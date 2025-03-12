@@ -47,7 +47,7 @@
                     "type" : "git",
                     "url" : "https://gitlab.com/ogarcia/lptk.git",
                     "tag" : "0.5.0",
-                    "commit" : "de0081b51e77f4355094844e2af5c337a831affc"
+                    "commit" : "3b39b01c441ce4abe30eb36a1b4e63299c5218d1"
                 },
                 "lptk-cargo-sources.json",
                 {
